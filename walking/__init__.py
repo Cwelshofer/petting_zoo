@@ -1,0 +1,1 @@
+from walking.models import Flamingo, Monkey, Tiger, Chimp, Panda

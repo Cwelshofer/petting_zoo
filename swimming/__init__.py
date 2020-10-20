@@ -1,0 +1,1 @@
+from swimming.models import Clownfish, Swordfish, Koi, Eel, Whale
